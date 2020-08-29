@@ -25,3 +25,4 @@ Made by [Glitch](https://glitch.com/)
 -------------------
 
 \ ゜o゜)ノ
+[![Run on Repl.it](https://repl.it/badge/github/youssefFawzy/DC-Shop)](https://repl.it/github/youssefFawzy/DC-Shop)
